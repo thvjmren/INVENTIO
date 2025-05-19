@@ -1,0 +1,39 @@
+﻿@model List<GetPositionVM>
+@{
+    int count = 0;
+}
+
+<div class="col-lg-6 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Positions</h4>
+            <a asp-action="Create" class="btn btn-info">Create</a>
+
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>No</th>
+                            <th>Name</th>
+                            <th>Setting</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (GetPositionVM positionVM in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td>@count</td>
+                                <td>@positionVM.Name</td>
+                                <td>
+                                    <a asp-action="Update" asp-route-id="@positionVM.Id" class="btn btn-primary">Update</a>
+                                    <a asp-action="Delete" asp-route-id="@positionVM.Id" class="btn btn-danger">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
