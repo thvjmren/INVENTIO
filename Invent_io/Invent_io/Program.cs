@@ -1,8 +1,16 @@
 using Invent_io.DAL;
+using Invent_io.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
+{
+    opt.Password.RequiredLength = 8;
+}).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
+
 builder.Services.AddDbContext<AppDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("default"));

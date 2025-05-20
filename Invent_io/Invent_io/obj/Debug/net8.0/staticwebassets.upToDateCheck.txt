@@ -69,7 +69,7 @@ wwwroot\assets\img\cta\cta-4.webp
 wwwroot\assets\img\favicon.png
 wwwroot\assets\img\illustration\illustration-16.webp
 wwwroot\assets\img\logo.webp
-wwwroot\assets\img\person\72c55741-55d4-460f-8728-b838cd8f93a3.png
+wwwroot\assets\img\person\64580931-25a0-40f9-9ceb-6f0572e31c81.png
 wwwroot\assets\img\person\person-f-10.webp
 wwwroot\assets\img\person\person-f-3.webp
 wwwroot\assets\img\person\person-f-5.webp

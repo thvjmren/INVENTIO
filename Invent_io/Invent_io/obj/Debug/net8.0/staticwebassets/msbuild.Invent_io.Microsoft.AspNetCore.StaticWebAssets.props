@@ -912,8 +912,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3w5og6hl44</Fingerprint>
-      <Integrity>LZTVHORKwGDAM3RFo6aolU05Es/MVhmBsSfo/xftC5s=</Integrity>
+      <Fingerprint>tas5gry4xs</Fingerprint>
+      <Integrity>e2UIyejgTejr/sXeLOHEMDvEagonkoPv9+JIwckAqRs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\vendors\base\vendor.bundle.base.css'))</OriginalItemSpec>
@@ -930,8 +930,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>i0mtw86ovx</Fingerprint>
-      <Integrity>Tkve1Z2B7z3G1rSvK6CCWTV2OE8oCA4zQSwKf/IR/eE=</Integrity>
+      <Fingerprint>lsw2vnss8e</Fingerprint>
+      <Integrity>hQ22BeabURoeqS9DtrMPbb3lr2rWj5sqM459NplWpis=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\admin\vendors\base\vendor.bundle.base.js'))</OriginalItemSpec>
@@ -1278,23 +1278,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\logo.webp'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\person\72c55741-55d4-460f-8728-b838cd8f93a3.png'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\person\64580931-25a0-40f9-9ceb-6f0572e31c81.png'))">
       <SourceType>Package</SourceType>
       <SourceId>Invent_io</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/Invent_io</BasePath>
-      <RelativePath>assets/img/person/72c55741-55d4-460f-8728-b838cd8f93a3.png</RelativePath>
+      <RelativePath>assets/img/person/64580931-25a0-40f9-9ceb-6f0572e31c81.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>plgkoil6pv</Fingerprint>
-      <Integrity>8/6T0zKQIcvjQ0MXH3QPOW0ax7bWYQyKt/CX3rtAOOY=</Integrity>
+      <Fingerprint>w1ccbz16l6</Fingerprint>
+      <Integrity>/FDnPv92vIOqFr+cKGqXdjmSPjKT3p3wWAdxK/1TIqg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\person\72c55741-55d4-460f-8728-b838cd8f93a3.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\person\64580931-25a0-40f9-9ceb-6f0572e31c81.png'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\img\person\person-f-10.webp'))">
       <SourceType>Package</SourceType>
@@ -2856,8 +2856,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>1l17o6qm1o</Fingerprint>
-      <Integrity>xRP+nt3eKzYkeT1ZtpqKS57evKmyxYRVggLdPSlvODE=</Integrity>
+      <Fingerprint>a0oo3znloo</Fingerprint>
+      <Integrity>dnFPI/i1MtPPNYeL5lKO3m6+cww1jbd2Sc1ilU0kMlo=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\vendor\php-email-form\validate.js'))</OriginalItemSpec>

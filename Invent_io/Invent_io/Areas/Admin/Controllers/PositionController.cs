@@ -40,7 +40,7 @@ namespace Invent_io.Areas.Admin.Controllers
             if (result)
             {
                 ModelState.AddModelError(nameof(CreatePositionVM.Name), "this name is already exists");
-                return View();
+                return View(positionVM);
             }
 
             Position? position = new()

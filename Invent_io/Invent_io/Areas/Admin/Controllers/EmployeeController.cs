@@ -121,39 +121,56 @@ namespace Invent_io.Areas.Admin.Controllers
                 X = employee.X,
                 Instagram = employee.Instagram,
                 PositionId = employee.PositionId,
+                Description = employee.Description,
                 Positions = await _context.Positions.ToListAsync()
             };
 
             return View(vm);
         }
-
         [HttpPost]
-
-        public async Task<IActionResult> Update(int? id,UpdateEmployeeVM employeeVM)
+        public async Task<IActionResult> Update(int? id, UpdateEmployeeVM employeeVM)
         {
             employeeVM.Positions = await _context.Positions.ToListAsync();
 
-            if (!ModelState.IsValid) return View();
+            if (!ModelState.IsValid) return View(employeeVM);
 
             if (employeeVM.Photo is not null)
             {
                 if (!employeeVM.Photo.ValidateType("image/"))
                 {
-                    ModelState.AddModelError(nameof(CreateEmployeeVM.Photo), "ONLY IMAGE");
+                    ModelState.AddModelError(nameof(UpdateEmployeeVM.Photo), "ONLY IMAGE");
                     return View(employeeVM);
                 }
 
                 if (!employeeVM.Photo.ValidateSize(FileSize.MB, 5))
                 {
-                    ModelState.AddModelError(nameof(CreateEmployeeVM.Photo), "5MB");
+                    ModelState.AddModelError(nameof(UpdateEmployeeVM.Photo), "5MB");
                     return View(employeeVM);
                 }
-
-                employeeVM.Image.DeleteFile(_env.WebRootPath, "assets", "img", "person");
-                employeeVM.Image = await employeeVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "img", "person");
             }
 
-            Employee? employee = await _context.Employees.FirstOrDefaultAsync(e=>e.Id == id);
+            bool result = employeeVM.Positions.Any(p => p.Id == employeeVM.PositionId);
+            if (!result)
+            {
+                ModelState.AddModelError(nameof(UpdateEmployeeVM.PositionId), "Position does not exist");
+                return View(employeeVM);
+            }
+
+            bool nameResult = await _context.Employees.AnyAsync(p => p.Name == employeeVM.Name && p.Id != id);
+            if (nameResult)
+            {
+                ModelState.AddModelError(nameof(UpdateEmployeeVM.Name), $"Employee: {employeeVM.Name} already exists...");
+                return View(employeeVM);
+            }
+
+            Employee? employee = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
+            if (employee is null) return NotFound();
+
+            if (employeeVM.Photo is not null)
+            {
+                employee.Image.DeleteFile(_env.WebRootPath, "assets", "img", "person");
+                employee.Image = await employeeVM.Photo.CreateFileAsync(_env.WebRootPath, "assets", "img", "person");
+            }
 
             employee.Name = employeeVM.Name;
             employee.Facebook = employeeVM.Facebook;
@@ -166,5 +183,6 @@ namespace Invent_io.Areas.Admin.Controllers
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
+
     }
 }
