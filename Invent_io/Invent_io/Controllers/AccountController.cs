@@ -3,18 +3,22 @@ using Invent_io.Utilities.Enums;
 using Invent_io.ViewModels;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace Invent_io.Controllers
 {
     public class AccountController : Controller
     {
         private readonly UserManager<AppUser> _userManager;
+        private readonly SignInManager<AppUser> _signInManager;
         private readonly RoleManager<IdentityRole> _roleManager;
         public AccountController(UserManager<AppUser> userManager,
-            RoleManager<IdentityRole> roleManager)
+            RoleManager<IdentityRole> roleManager,
+            SignInManager<AppUser> signInManager)
         {
             _userManager = userManager;
             _roleManager = roleManager;
+            _signInManager = signInManager;
         }
         public IActionResult Register()
         {
@@ -32,10 +36,9 @@ namespace Invent_io.Controllers
                 Surname = registerVM.Surname,
                 UserName = registerVM.Username,
                 Email = registerVM.Email,
-                PasswordHash = registerVM.Password
             };
 
-            IdentityResult identityResult = await _userManager.CreateAsync(appUser);
+            IdentityResult identityResult = await _userManager.CreateAsync(appUser, registerVM.Password);
 
             if (!identityResult.Succeeded)
             {
@@ -45,9 +48,51 @@ namespace Invent_io.Controllers
                 }
                 return View(registerVM);
             }
-
             await _userManager.AddToRoleAsync(appUser, Role.Admin.ToString());
+            await _signInManager.PasswordSignInAsync(appUser, registerVM.Password, registerVM.IsPersistent, true);
+
             return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Login(LoginVM loginVM)
+        {
+            if (!ModelState.IsValid) return View();
+
+            AppUser user = await _userManager.Users.FirstOrDefaultAsync(u => u.UserName == loginVM.UsernameOrEmail || u.Email == loginVM.UsernameOrEmail);
+
+            if (user is null)
+            {
+                ModelState.AddModelError(string.Empty, "user can not found");
+                return View(loginVM);
+            }
+
+            var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, loginVM.IsPersistent, true);
+
+            if (result.IsLockedOut)
+            {
+                ModelState.AddModelError(string.Empty, "please try again later");
+                return View(loginVM);
+            }
+            if (!result.Succeeded)
+            {
+                ModelState.AddModelError(string.Empty, "email/username or password is incorrect");
+                return View(loginVM);
+            }
+
+            return RedirectToAction("index", "home");
+
+        }
+
+        public async Task<IActionResult> Logout()
+        {
+            await _signInManager.SignOutAsync();
+            return RedirectToAction("index", "home");
         }
 
         public async Task<IActionResult> CreateRoles()

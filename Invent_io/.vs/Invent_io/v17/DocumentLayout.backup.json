@@ -1,70 +1,106 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\",
+  "WorkspaceRootPath": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\accountvms\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\accountvms\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Migrations\\20250520014626_secondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Invent_io\\Migrations\\20250520014626_secondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\areas\\admin\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\areas\\admin\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\viewmodels\\poisitionvms\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\poisitionvms\\updatepositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\viewmodels\\poisitionvms\\getpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\poisitionvms\\getpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\viewmodels\\poisitionvms\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\viewmodels\\poisitionvms\\createpositionvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\utilities\\enums\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\areas\\admin\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\inventio\\invent_io\\invent_io\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\areas\\admin\\views\\employee\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|c:\\users\\rana\\desktop\\ca\\inventio\\invent_io\\invent_io\\migrations\\20250520014626_secondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{588283B0-8B56-4AEE-A1B7-9148B34535FA}|Invent_io\\Invent_io.csproj|solutionrelative:invent_io\\migrations\\20250520014626_secondary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,43 +110,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Enums\\Role.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Utilities\\Enums\\Role.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Enums\\Role.cs",
-              "RelativeToolTip": "Invent_io\\Utilities\\Enums\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T02:37:32.229Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Invent_io\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIMBAAAAAAAAAAAWwJ4BAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:04:30.199Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Invent_io\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T04:47:14.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Invent_io\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA5wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:47:51.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJ0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:23:21.829Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Models\\Position.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Models\\Position.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Models\\Position.cs",
-              "RelativeToolTip": "Invent_io\\Models\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T02:37:06.447Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Invent_io\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Account\\Register.cshtml",
               "RelativeToolTip": "Invent_io\\Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-20T01:58:22.37Z",
               "EditorCaption": ""
@@ -118,171 +179,243 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RegisterVM.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "RelativeToolTip": "Invent_io\\ViewModels\\AccountVMs\\RegisterVM.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAIAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Program.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Program.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Program.cs",
+              "RelativeToolTip": "Invent_io\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:48:23.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T01:27:33.699Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "Invent_io\\Controllers\\AccountController.cs*",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwDYAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:47:51.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "20250520014626_secondary.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Migrations\\20250520014626_secondary.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Migrations\\20250520014626_secondary.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Migrations\\20250520014626_secondary.cs",
-              "RelativeToolTip": "Invent_io\\Migrations\\20250520014626_secondary.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:46:27.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Models\\AppUser.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Models\\AppUser.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Models\\AppUser.cs",
-              "RelativeToolTip": "Invent_io\\Models\\AppUser.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAcAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:38:26.194Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Invent_io\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T05:11:05.899Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Invent_io\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "Invent_io\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Title": "UpdatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\UpdatePositionVM.cs",
+              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\PoisitionVMs\\UpdatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\UpdatePositionVM.cs",
+              "RelativeToolTip": "Invent_io\\ViewModels\\PoisitionVMs\\UpdatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:27:38.355Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:00:34.849Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Program.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Program.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Program.cs",
-              "RelativeToolTip": "Invent_io\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "Invent_io\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:27:33.699Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginVM.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\AccountVMs\\LoginVM.cs",
-              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\AccountVMs\\LoginVM.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\AccountVMs\\LoginVM.cs",
-              "RelativeToolTip": "Invent_io\\ViewModels\\AccountVMs\\LoginVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T01:53:37.844Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:00:28.841Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\appsettings.json",
-              "RelativeDocumentMoniker": "Invent_io\\appsettings.json",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\appsettings.json",
-              "RelativeToolTip": "Invent_io\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T01:05:50.393Z",
-              "EditorCaption": ""
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\AppUser.cs",
+              "RelativeToolTip": "Invent_io\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:38:26.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:23:19.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Utilities\\Extensions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeToolTip": "Invent_io\\Utilities\\Extensions\\FileValidator.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Invent_io\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:59:18.29Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T14:47:36.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-19T14:26:04.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T02:58:01.736Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAHMAAAAAAAAAAAAUwJkAAAANAAAAAAAAAA==",
+              "Title": "GetPositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\GetPositionVM.cs",
+              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\PoisitionVMs\\GetPositionVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\GetPositionVM.cs",
+              "RelativeToolTip": "Invent_io\\ViewModels\\PoisitionVMs\\GetPositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:23:21.829Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:00:33.711Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\Rana\\Desktop\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAIBJwGkAAAAFAAAAAAAAAA==",
+              "Title": "CreatePositionVM.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\CreatePositionVM.cs",
+              "RelativeDocumentMoniker": "Invent_io\\ViewModels\\PoisitionVMs\\CreatePositionVM.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\ViewModels\\PoisitionVMs\\CreatePositionVM.cs",
+              "RelativeToolTip": "Invent_io\\ViewModels\\PoisitionVMs\\CreatePositionVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T14:23:19.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T03:00:31.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Enums\\Role.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Utilities\\Enums\\Role.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Enums\\Role.cs",
+              "RelativeToolTip": "Invent_io\\Utilities\\Enums\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:37:32.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Invent_io\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Invent_io\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:27:38.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:29:43.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\Employee.cs",
+              "RelativeToolTip": "Invent_io\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:30:08.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Invent_io\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T03:29:25.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Models\\Position.cs",
+              "RelativeToolTip": "Invent_io\\Models\\Position.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:37:06.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250520014626_secondary.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Migrations\\20250520014626_secondary.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Migrations\\20250520014626_secondary.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Migrations\\20250520014626_secondary.cs",
+              "RelativeToolTip": "Invent_io\\Migrations\\20250520014626_secondary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T01:46:27.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\appsettings.json",
+              "RelativeDocumentMoniker": "Invent_io\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\appsettings.json",
+              "RelativeToolTip": "Invent_io\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-20T01:05:50.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "Invent_io\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "Invent_io\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:59:18.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:47:36.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeDocumentMoniker": "Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Rana\\Desktop\\CA\\INVENTIO\\Invent_io\\Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "RelativeToolTip": "Invent_io\\Areas\\Admin\\Views\\Employee\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-19T14:26:04.636Z"
             }
           ]
         }

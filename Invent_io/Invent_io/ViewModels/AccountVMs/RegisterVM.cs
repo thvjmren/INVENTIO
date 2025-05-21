@@ -19,5 +19,6 @@ namespace Invent_io.ViewModels
         [DataType(DataType.Password)]
         [Compare(nameof(Password))]
         public string ConfirmPassword { get; set; }
+        public bool IsPersistent { get; set; }
     }
 }

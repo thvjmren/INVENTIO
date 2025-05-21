@@ -156,13 +156,6 @@ namespace Invent_io.Areas.Admin.Controllers
                 return View(employeeVM);
             }
 
-            bool nameResult = await _context.Employees.AnyAsync(p => p.Name == employeeVM.Name && p.Id != id);
-            if (nameResult)
-            {
-                ModelState.AddModelError(nameof(UpdateEmployeeVM.Name), $"Employee: {employeeVM.Name} already exists...");
-                return View(employeeVM);
-            }
-
             Employee? employee = await _context.Employees.FirstOrDefaultAsync(e => e.Id == id);
             if (employee is null) return NotFound();
 
